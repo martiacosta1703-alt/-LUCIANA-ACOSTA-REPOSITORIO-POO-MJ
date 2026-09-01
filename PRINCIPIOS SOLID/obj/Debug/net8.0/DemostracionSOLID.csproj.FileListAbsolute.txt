@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\PRINCIPIOS SOLID\PRINCIPIOS SOLID\bin\Debug\net8.0\DemostracionSOLID.exe
+C:\Users\user\source\repos\PRINCIPIOS SOLID\PRINCIPIOS SOLID\bin\Debug\net8.0\DemostracionSOLID.deps.json
+C:\Users\user\source\repos\PRINCIPIOS SOLID\PRINCIPIOS SOLID\bin\Debug\net8.0\DemostracionSOLID.runtimeconfig.json
+C:\Users\user\source\repos\PRINCIPIOS SOLID\PRINCIPIOS SOLID\bin\Debug\net8.0\DemostracionSOLID.dll
+C:\Users\user\source\repos\PRINCIPIOS SOLID\PRINCIPIOS SOLID\bin\Debug\net8.0\DemostracionSOLID.pdb
+C:\Users\user\source\repos\PRINCIPIOS SOLID\PRINCIPIOS SOLID\obj\Debug\net8.0\DemostracionSOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PRINCIPIOS SOLID\PRINCIPIOS SOLID\obj\Debug\net8.0\DemostracionSOLID.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PRINCIPIOS SOLID\PRINCIPIOS SOLID\obj\Debug\net8.0\DemostracionSOLID.AssemblyInfo.cs
+C:\Users\user\source\repos\PRINCIPIOS SOLID\PRINCIPIOS SOLID\obj\Debug\net8.0\DemostracionSOLID.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PRINCIPIOS SOLID\PRINCIPIOS SOLID\obj\Debug\net8.0\DemostracionSOLID.dll
+C:\Users\user\source\repos\PRINCIPIOS SOLID\PRINCIPIOS SOLID\obj\Debug\net8.0\refint\DemostracionSOLID.dll
+C:\Users\user\source\repos\PRINCIPIOS SOLID\PRINCIPIOS SOLID\obj\Debug\net8.0\DemostracionSOLID.pdb
+C:\Users\user\source\repos\PRINCIPIOS SOLID\PRINCIPIOS SOLID\obj\Debug\net8.0\DemostracionSOLID.genruntimeconfig.cache
+C:\Users\user\source\repos\PRINCIPIOS SOLID\PRINCIPIOS SOLID\obj\Debug\net8.0\ref\DemostracionSOLID.dll
